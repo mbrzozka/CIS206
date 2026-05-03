@@ -1,0 +1,52 @@
+<library>
+  <book>
+    <title>Dune</title>
+    <author>Frank Herbert</author>
+    <year>1965</year>
+  </book>
+  <book>
+    <title>The Hobbit</title>
+    <author>J.R.R. Tolkien</author>
+    <year>1937</year>
+  </book>
+  <book>
+    <title>Fahrenheit 451</title>
+    <author>Ray Bradbury</author>
+    <year>1953</year>
+  </book>
+  <book>
+    <title>Pride and Prejudice</title>
+    <author>Jane Austen</author>
+    <year>1813</year>
+  </book>
+  <book>
+    <title>The Catcher in the Rye</title>
+    <author>J.D. Salinger</author>
+    <year>1951</year>
+  </book>
+  <book>
+    <title>The Road</title>
+    <author>Cormac McCarthy</author>
+    <year>2006</year>
+  </book>
+  <book>
+    <title>The Alchemist</title>
+    <author>Paulo Coelho</author>
+    <year>1988</year>
+  </book>
+  <book>
+    <title>The Martian</title>
+    <author>Andy Weir</author>
+    <year>2011</year>
+  </book>
+  <book>
+    <title>The Shining</title>
+    <author>Stephen King</author>
+    <year>1977</year>
+  </book>
+  <book>
+    <title>The Giver</title>
+    <author>Lois Lowry</author>
+    <year>1993</year>
+  </book>
+</library>
